@@ -1,0 +1,9 @@
+.main {
+  /* background: rgb(202, 218, 234); */
+  height: 40vh;
+  margin-top: 20px;
+}
+.card {
+  background: rgb(189, 185, 185);
+  height: 325px;
+}
